@@ -125,3 +125,15 @@
     color: #E9B74D;
 }
 /* product section css end */
+.footer{
+    display: flex;
+    text-align: center;
+    
+
+}
+.a1{
+    padding: 3%;
+list-style: none !important;
+
+
+}
